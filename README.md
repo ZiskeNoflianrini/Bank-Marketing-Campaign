@@ -20,7 +20,7 @@ Also, this kind of marketing could also make some customer feel uncomfortable. S
 According to the problem, we have to know what kind of customer that will subscribe a term of deposit and to train the best machine learning model that is able to predict whether the customers will subscribe a term of deposit or not.
 
 # Business Question
-Does duration and campaign (amount of call) on this campaign have correlation with the customer decision to subscribe ?
+- Does duration and campaign (amount of call) on this campaign have correlation with the customer decision to subscribe ?
 How does social dan economic context related to the customer Subscription?
 Which job type tend to open the term subscribe ?
 Does marital status relate on customer's decision to subscribe ?
