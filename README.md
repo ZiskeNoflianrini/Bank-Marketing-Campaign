@@ -20,7 +20,7 @@ Also, this kind of marketing could also make some customer feel uncomfortable. S
 According to the problem, we have to know what kind of customer that will subscribe a term of deposit and to train the best machine learning model that is able to predict whether the customers will subscribe a term of deposit or not.
 
 # Business Question
- campaign have correlation with the customer decision to subscribe ?
+Does duration and campaign (amount of call) on this campaign have correlation with the customer decision to subscribe ?
 How does social dan economic context related to the customer Subscription?
 Which job type tend to open the term subscribe ?
 Does marital status relate on customer's decision to subscribe ?
@@ -29,3 +29,11 @@ Does personal loan and housing loan feature has a relationship with the customer
 Whether cellphones or telephones should be used to improve consumer interest to subscribe ?
 Do customers tends to subscribe if the outcome on previous campagin is success?
 When is the best time to attract customers, so They decide to subscribe?
+
+# Conclusion and Recommendation
+The best time to approach customer is March, September, and December, especially on Thursday.
+If it is possible call customer by cellular.
+The bank should approach more single customers who are thirty years old .
+The bank should explore more why students and illiterate have high proportion of subscription in job and last education feature.
+
+
